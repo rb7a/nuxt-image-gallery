@@ -11,7 +11,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   site: {
-    url: 'https://image-gallery.nuxt.dev/',
+    url: 'https://sage-faloodeh-18d793.netlify.app/',
     name: 'Nuxt Image Gallery',
     description: 'A beautiful, full-stack image gallery application built with Nuxt on the edge',
     defaultLocale: 'en',
